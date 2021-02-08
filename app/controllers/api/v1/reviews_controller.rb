@@ -1,5 +1,5 @@
 module Api
     module V1
-        class AirlinesController < ApplicationController
+        class ReviewsController < ApplicationController
     end
 end
